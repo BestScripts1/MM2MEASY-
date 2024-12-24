@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/fe05ff600b3f8d4f1edc6339.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/ae1ba500bf17986817312c23.lua'))()
 -- Create the ScreenGui
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "LoadingScreen"
